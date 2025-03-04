@@ -1,0 +1,80 @@
+# Translation of Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-24 01:48:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release)\n"
+
+#. Author of the plugin
+#: database-for-wp-forms.php
+msgid "wpdebuglog"
+msgstr "wpdebuglog"
+
+#. translators: 1: Settings URL, 2: Repository url
+#: database-for-wp-forms.php:194
+msgid "Awesome, you've been using <a href=\"admin.php?page=wp-forms-db-list.php\">WPForms DB</a> for more than 1 week. May we ask you to give it a 5-star rating on WordPress? | <a href=\"%2$s\" target=\"_blank\">Ok, you deserved it</a> | <a href=\"%1$s\">I already did</a> | <a href=\"%1$s\">No, not good enough</a>"
+msgstr "¡Impresionante! Has estado usando <a href=\"admin.php?page=wp-forms-db-list.php\">WPForms DB</a> durante más de 1 semana. ¿Te importaría tomarte unos segundos para darle una valoración de 5 estrellas en WordPress? Gracias de antemano :) <a href=\"%2$s\" target=\"_blank\">Vale, te lo mereces </a> | <a href=\"%1$s\">Ya lo he hecho</a> | <a href=\"%1$s\"> No, no es lo suficientemente bueno</a>"
+
+#: inc/class-sub-page.php:452
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#: inc/class-sub-page.php:448
+msgid "Apply"
+msgstr "Aplicar "
+
+#: inc/class-sub-page.php:438
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: inc/class-sub-page.php:436
+msgid "Select bulk action"
+msgstr "Selecciona acción en lote"
+
+#: inc/class-sub-page.php:195
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/class-sub-page.php:194
+msgid "Unread"
+msgstr "Sin leer"
+
+#: inc/class-sub-page.php:193
+msgid "Read"
+msgstr "Leer"
+
+#: inc/class-main-page.php:128
+msgid "Count"
+msgstr "Contador"
+
+#: inc/class-main-page.php:127
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/class-main-page.php:71
+msgid "WPForms List"
+msgstr "Listado WPForms"
+
+#: inc/class-main-page.php:31
+msgid "WPForms DB"
+msgstr "Base de Datos WPForms"
+
+#: inc/class-main-page.php:31
+msgid "WPForms Submissions"
+msgstr "Envíos de WPForms"
+
+#. Description of the plugin
+#: database-for-wp-forms.php
+msgid "Save and manage WPForms submissions. Never lose important data. Database add-on for WPForms."
+msgstr "Guardar y gestionar los envíos de WPForms. Nunca pierdas datos importantes. Complemento de base de datos para WPForms."
+
+#. Plugin Name of the plugin
+#: database-for-wp-forms.php
+msgid "Database for WPforms"
+msgstr "Base de datos para WPForms"
