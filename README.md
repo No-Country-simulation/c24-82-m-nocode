@@ -105,6 +105,7 @@ Diagrama que muestra el flujo de uso de la aplicación:
 ![Flujo de usuario](https://github.com/user-attachments/assets/d4e31cc9-3551-4de7-8981-f34bce49eab6)
 
 Formulario para agendar una demo gratuita:
+
 ![Imagen de WhatsApp 2025-03-02 a las 01 37 35_2c0cb8ca](https://github.com/user-attachments/assets/56f39e5c-c067-4a6b-a3d4-964c9cb6d2c5)
 
 
