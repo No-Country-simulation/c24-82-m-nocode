@@ -97,15 +97,16 @@ Semana 5: Lanzamiento oficial y marketing.
 13. Imágenes Ilustrativas
 Diseño de la Interfaz
 
-Pantalla principal con botones para llamar al mozo y solicitar la cuenta.
+Pantalla principal con botones para llamar al mozo y solicitar la cuenta:
 ![Imagen de WhatsApp 2025-03-02 a las 01 36 56_7ff5b0ff](https://github.com/user-attachments/assets/90b9f320-ca85-49ee-8d2c-41d21952d663)
 
 Flujo de Usuario
-Diagrama que muestra el flujo de uso de la aplicación.
+Diagrama que muestra el flujo de uso de la aplicación:
 ![Flujo de usuario](https://github.com/user-attachments/assets/d4e31cc9-3551-4de7-8981-f34bce49eab6)
 
-Agenda una Demo ![Imagen de WhatsApp 2025-03-02 a las 01 37 35_2c0cb8ca](https://github.com/user-attachments/assets/56f39e5c-c067-4a6b-a3d4-964c9cb6d2c5)
-Formulario para agendar una demo gratuita.
+Formulario para agendar una demo gratuita:
+![Imagen de WhatsApp 2025-03-02 a las 01 37 35_2c0cb8ca](https://github.com/user-attachments/assets/56f39e5c-c067-4a6b-a3d4-964c9cb6d2c5)
+
 
 14. Enlaces de Interés
 Tendencias en tecnología para restaurantes Agregar Info
